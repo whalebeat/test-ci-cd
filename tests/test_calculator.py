@@ -22,4 +22,3 @@ def test_multiply(calc):
 
 def test_divide(calc):
     assert calc.divide(10, 2) == 5
-    
